@@ -1,4 +1,4 @@
-liam Rodgers 1248912
+Liam Rodgers 1248912
 Corbyn noble-may 1314639
 
 import java.util.Scanner;
