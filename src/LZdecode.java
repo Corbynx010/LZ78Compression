@@ -1,5 +1,5 @@
 Liam Rodgers 1248912
-Corbyn noble-may 1314639
+Corbyn Noble-May 1314639
 
 import java.util.Scanner;
 import java.io.*;
