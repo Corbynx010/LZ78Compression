@@ -112,6 +112,6 @@ class decoder
         phraseNumber.clear(); //clear list of phrase numbers
         phraseNumber.add(0); //add default 0
 
-        index = 1;
+        //index = 1;
     }
 }
